@@ -1,6 +1,8 @@
 # pause-at
 Pause At is a FlyWithLua script for X-Plane that pauses the simulator at given distance from the destination airport, or if abnormal conditions occur.
 
+The project is hosted at https://github.com/stolowski/pause-at
+
 License: GPL v3
 
 Requirements
