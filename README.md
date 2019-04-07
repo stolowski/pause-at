@@ -3,7 +3,8 @@ Pause At is a FlyWithLua script for X-Plane that pauses the simulator at given d
 
 License: GPL v3
 
-Requirements:
+Requirements
+============
 - X-Plane 11
 - FlyWithLua 2.7.17+
 
@@ -12,3 +13,11 @@ Implemented:
 
 Planned:
 - Pause on abnormal conditions, such as autopilot disconnect, master caution/warning etc.
+
+Installation
+============
+Place pause-at.lua file in <X-Plane>/Resources/plugins/FlyWithLua/Scripts/ folder.
+  
+Usage
+=====
+PauseAt window can be opened via X-Plane's Plugin - FlyWithLua macros menu. Set you destination airport ICAO and distance from it, then hit Apply.
